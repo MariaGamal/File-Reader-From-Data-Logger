@@ -1,13 +1,3 @@
-"""
-CSE313 Advanced Programming
-
-Date: 19/1/2021
-
-Author: Maria Gamal Matta
-ID: 120180005
-
-Topic: Quiz
-"""
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates
