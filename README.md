@@ -15,7 +15,7 @@ The data format is in Hex (Excluding time, date and text_id).
 ## Packet Format:
 each row consists of the following  
 {  
-       Date,  
+       > Date,  
        Time:  
        text_id,  
        yoc_temp, // Current Temperature  
