@@ -23,27 +23,26 @@ each row consists of the following
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p1, // Device 1 state Off=0, LOW speed=1,on=2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p2, // Device 2 state Off=0, on=2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p3, // Device 3 state Off=0, on=2  
-       yoc_p4, // Device 4 state Off=0, on=2  
-       yoc_p5, // Device 5 state Off=0, on=2  
-       yoc_bl1, // External Device 1 state Off=0, on=2  
-       yoc_bl2, // External Device 2 state Off=0, on=2  
-       yoc_lights, // Lights 1 state Off=0, on=1  
-       yoc_stereo, // Stereo state Off=0, on=1  
-       yoc_h1, //H-Device 1 state Off=0, start-up routine=1, running=2,exit_routine  
-       yoc_h2, //H-Device2 state Off=0, start-up routine=1, running=2,exit_routine  
-       yoc_filter, // filter Stages from 0 to 7  
-       yoc_bl3, // External Device 3 state Off=0, on=1  
-       yoc_bl4, // External Device 4 state Off=0, on=1  
-       yoc_bl5, // External Device 5 state Off=0, on=1  
-       yoc_bl6, // External Device 6 state Off=0, on=1  
-       yoc_h_adc, // Internal Temperature  
-       yoc_bl7, // External Device 7 state Off=0, on=1  
-       yoc_econ, // power saving state Off=0, on=1  
-       yoc_i_adc, // current  
-       yoc_all_on, // alarm Off=0, on=1  
-       yoc_bl8, // External Device 8 state Off=0, on=1  
-       yoc_bl9, // External Device 9 state Off=0, on=1  
-       yoc_bl10, // External Device 10 state Off=0, on=1   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p4, // Device 4 state Off=0, on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p5, // Device 5 state Off=0, on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl1, // External Device 1 state Off=0, on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl2, // External Device 2 state Off=0, on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_lights, // Lights 1 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_stereo, // Stereo state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_h1, //H-Device 1 state Off=0, start-up routine=1, running=2,exit_routine  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_h2, //H-Device2 state Off=0, start-up routine=1, running=2,exit_routine  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_filter, // filter Stages from 0 to 7  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl4, // External Device 4 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl5, // External Device 5 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl6, // External Device 6 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_h_adc, // Internal Temperature  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl7, // External Device 7 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_econ, // power saving state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_i_adc, // current  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_all_on, // alarm Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl8, // External Device 8 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl9, // External Device 9 state Off=0, on=1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_bl10, // External Device 10 state Off=0, on=1   
 }  
  
  
