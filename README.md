@@ -18,11 +18,11 @@ each row consists of the following
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; text_id,  
-       yoc_temp, // Current Temperature  
-       yoc_SP, // Target Temperature  
-       yoc_p1, // Device 1 state Off=0, LOW speed=1,on=2  
-       yoc_p2, // Device 2 state Off=0, on=2  
-       yoc_p3, // Device 3 state Off=0, on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_temp, // Current Temperature  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_SP, // Target Temperature  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p1, // Device 1 state Off=0, LOW speed=1,on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p2, // Device 2 state Off=0, on=2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; yoc_p3, // Device 3 state Off=0, on=2  
        yoc_p4, // Device 4 state Off=0, on=2  
        yoc_p5, // Device 5 state Off=0, on=2  
        yoc_bl1, // External Device 1 state Off=0, on=2  
