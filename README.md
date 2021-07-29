@@ -15,9 +15,9 @@ The data format is in Hex (Excluding time, date and text_id).
 ## Packet Format:
 each row consists of the following  
 {  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date,  
-       Time:  
-       text_id,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Time:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; text_id,  
        yoc_temp, // Current Temperature  
        yoc_SP, // Target Temperature  
        yoc_p1, // Device 1 state Off=0, LOW speed=1,on=2  
